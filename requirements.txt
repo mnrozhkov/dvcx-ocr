@@ -1,0 +1,9 @@
+dvcx==0.71.0
+accelerate
+jupyterlab
+opencv-python
+easyocr
+pandas
+python-doctr==0.8.1
+torch
+transformers
